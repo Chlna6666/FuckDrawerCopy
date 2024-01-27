@@ -1,3 +1,8 @@
+<p align="center">
+    <a href="README.md">简体中文</a>
+    <a href="README_EN.md">English</a>
+</p>
+
 # 抽屉复制 (FuckDrawerCopy)
 
 ## 简介

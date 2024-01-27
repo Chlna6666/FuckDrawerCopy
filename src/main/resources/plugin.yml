@@ -1,0 +1,5 @@
+name: FuckDrawerCopy
+authors: [ Chlna6666 ]
+version: '${version}'
+main: org.com.fuckdrawercopy.FuckDrawerCopy
+api-version: '1.13'
